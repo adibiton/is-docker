@@ -1,7 +1,7 @@
 {
-  "name": "is-docker",
+  "name": "@adibiton/is-docker",
   "version": "1.0.0",
-  "description": "",
+  "description": "util function to check whether node is running on docker or not",
   "main": "index.js",
   "scripts": {
     "test": "ava"
