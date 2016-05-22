@@ -1,2 +1,2 @@
 # is-docker
-https://travis-ci.org/adibiton/is-docker.svg?branch=master
+[![Build Status](https://travis-ci.org/adibiton/is-docker.svg?branch=master)](https://travis-ci.org/adibiton/is-docker)
