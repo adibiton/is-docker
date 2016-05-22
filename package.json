@@ -1,0 +1,23 @@
+{
+  "name": "is-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adibiton/is-docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adibiton/is-docker/issues"
+  },
+  "homepage": "https://github.com/adibiton/is-docker#readme",
+  "devDependencies": {
+    "ava": "^0.14.0",
+    "sinon": "^1.17.4"
+  }
+}
