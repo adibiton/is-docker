@@ -7,6 +7,6 @@ npm install is-run-with-docker
 ```
 ## How to use
 ``` javascript
-const isDocker = require(is-run-with-docker');
+const isDocker = require('is-run-with-docker');
 console.log(isDocker());
 ```
