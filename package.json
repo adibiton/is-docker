@@ -1,6 +1,6 @@
 {
-  "name": "@adibiton/is-docker",
-  "version": "1.0.1",
+  "name": "is-docker",
+  "version": "1.0.0",
   "description": "util function to check whether node is running on docker or not",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/adibiton/is-docker#readme",
   "devDependencies": {
-    "ava": "^0.14.0",
-    "sinon": "^1.17.4"
+    "ava": "0.15.*",
+    "react": "15.1.*",
+    "sinon": "1.17.*"
   }
 }
